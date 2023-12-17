@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "c1730c0a3a07a300",
+    "type": "split",
+    "children": [
+      {
+        "id": "d283148108c97c7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "129c82ea7f953d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "云服务/云主机/密码注入.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cd63e955d1a7cc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2befad23adbc011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9aa805bdc4ca15c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a4f1611ea2c7c56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dc31436073f5cc1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31e094d2b704ccc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe1df38ec8b4bea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfa1dde94acad18e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "云服务/云主机/密码注入.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f596c5eed77d51c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "云服务/云主机/密码注入.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0aaf31c400d6c1b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7399012efaea253b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "云服务/云主机/密码注入.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "129c82ea7f953d91",
+  "lastOpenFiles": [
+    "README.md",
+    "数据库/DBeaver离线驱动.md",
+    "项目开发/工作记录/2022.08.md",
+    "项目开发/工作记录/中心云.md",
+    "项目开发/工作记录/问题记录.md",
+    "项目开发/工作记录/边缘云.md",
+    "项目开发/工作记录/2022.09.md",
+    "安全/CSRF攻击与防御.md",
+    "云服务/云主机/密码注入.md",
+    "2023-10-25.md",
+    "未命名.canvas"
+  ]
+}
