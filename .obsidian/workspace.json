@@ -129,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "cb3e442d294e9952",
+  "active": "cfa1dde94acad18e",
   "lastOpenFiles": [
     "数据库/Mysql/Mysql命令.md",
     "数据库/Mysql/Mysql基础.md",
